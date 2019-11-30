@@ -1,0 +1,26 @@
+{
+  "name": "staticanalysis",
+  "version": "1.0.0",
+  "description": "static analysis with eslint, prettier and the like",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -- --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nyowusu/testingjsstaticanalysis.git"
+  },
+  "keywords": [
+    "static",
+    "analysis"
+  ],
+  "author": "nyowusu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyowusu/testingjsstaticanalysis/issues"
+  },
+  "homepage": "https://github.com/nyowusu/testingjsstaticanalysis#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2"
+  }
+}
